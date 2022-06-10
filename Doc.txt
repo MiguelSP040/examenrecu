@@ -1,1 +1,5 @@
-Nor
+<<<<<<< HEAD
+Norte
+=======
+Ce
+>>>>>>> Centro
